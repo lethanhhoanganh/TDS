@@ -1,7 +1,7 @@
 cách chạy file 
-git clone https://github.com/lethanhhoanganh/TDS.git
+$ git clone https://github.com/lethanhhoanganh/TDS.git
 nhập:
-cd TSD
+$ cd TSD
 rồi nhập để chạy tool nha 
-php thilyquan.php
+$ php thilyquan.php
 đường quên đánh giá sao nhé 
