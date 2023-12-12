@@ -1,4 +1,7 @@
 cách chạy file 
 git clone https://github.com/lethanhhoanganh/TDS.git
-rồi nhập 
+nhập:
+cd TSD
+rồi nhập để chạy tool nha 
 php thilyquan.php
+đường quên đánh giá sao nhé 
